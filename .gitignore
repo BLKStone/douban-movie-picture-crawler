@@ -1,0 +1,3 @@
+piccrawler/pictures/*.*
+piccrawler/*.pyc
+piccrawler/spiders/*.pyc
